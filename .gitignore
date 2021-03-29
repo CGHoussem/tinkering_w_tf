@@ -1,0 +1,18 @@
+# `python -m venv` related
+Lib
+Scripts
+
+# vscode related
+.vscode
+
+# downloaded datasets
+*.tar.gz
+
+# imdb related
+imdb/aclImdb
+
+# stackoverflow related
+stackoverflow/stack_overflow_16k
+
+# regression related
+regression/dnn_model
